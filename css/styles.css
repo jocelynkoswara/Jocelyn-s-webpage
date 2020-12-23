@@ -41,6 +41,11 @@ a:hover{
 }
 
 .border1{
-    border: seashell 10px solid;
+    border: seashell 20px double;
 
+}
+
+.navbar{
+    background-color: rgb(255, 214, 255);
+    
 }
