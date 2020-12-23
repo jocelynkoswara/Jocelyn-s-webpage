@@ -39,3 +39,8 @@ a:hover{
     -ms-flex-align: center;
     justify-content: space-around;
 }
+
+.border1{
+    border: seashell 10px solid;
+
+}
