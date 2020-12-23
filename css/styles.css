@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&family=Quicksand:wght@600&display=swap');
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    font-family:sans-serif
+    color:black
+}
+
+div{
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+footer{
+    text-align: center;
+    text-shadow: darkgrey;
+}
+
+a:hover{
+    font-size: 25px;
+    color:mediumorchid
+}
+
+.boston:hover{
+    text-decoration: none;
+    text-align: justify;
+    color: peru;
+    font-size: 25px;
+}
+.boston{
+    text-decoration: none;
+    text-align: justify;
+    color: peru; 
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    -ms-flex-align: center;
+    justify-content: space-around;
+}
