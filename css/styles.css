@@ -211,3 +211,23 @@ hr{
 li{
     font-size: 20px;
 }
+
+.border2{
+    letter-spacing;
+    padding: 20px;
+}
+.border2:hover{
+    border:lightpink 10px solid;
+}
+
+.home{
+padding: 20px;
+
+    flexpa-direction: row;
+    display: flex;
+    align-items: flex-start;
+}
+
+.hobbies{
+    text-align: center;
+}
